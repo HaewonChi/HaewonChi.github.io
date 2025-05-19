@@ -9,6 +9,12 @@ main:
   - title: "Publications"
     url: "/#-publications"
 
+  - title: "Field Experiences"
+    url: "/#-Field Experiences"
+
   - title: "Educations"
     url: "/#-educations"
+
+  - title: "Work Experience"
+    url: "/#-Work Experience"
     
