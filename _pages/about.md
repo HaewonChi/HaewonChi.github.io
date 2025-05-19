@@ -23,10 +23,13 @@ My primary research interests include:
 - Crop Yield Prediction
 - Machine Learning and Deep Learning 
 
+<span class='anchor' id='-news'></span>
+
 # 🔥 News
 - *2024.01*: &nbsp;🎉 One paper accepted to **Journal of Hydrology**  
 - *2023.05*: &nbsp;🎉 Started my Ph.D. program at **UIUC**! 
 
+<span class='anchor' id='-publications'></span>
 # 📝 Publications 
 - <font size="3">Hydrological trends captured by assimilating GRACE total water
 storage data into the CLM5-BGC model</font>
@@ -40,8 +43,8 @@ adaptation in South Korea</font>
 Seo J., **Chi H.,** Kim Y. \
 <span style="color:purple">**Journal of Korea Water Resources Association (2022)**</span> 
 
+<span class='anchor' id='-field-experiences'></span>
 # 🚜 Field Experiences 
-
 <table>
   <tr>
     <td style="vertical-align: top; padding-right: 20px;">
@@ -56,11 +59,13 @@ Seo J., **Chi H.,** Kim Y. \
   </tr>
 </table>
 
+<span class='anchor' id='-educations'></span>
 # 📖 Educations
 - *2023.05 - Present*, Ph.D in Natural Resources and Envrionmental Science, <a href="https://nres.illinois.edu/" style="color: #FF5F05; text-decoration: none;">UIUC</a>.
 - *2021.03 - 2022.02*, M.S. in Civil and Environemental Engineering, <a href="https://civil.yonsei.ac.kr/civil_en/index.do" style="color: #4169E1; text-decoration: none;">Yonsei University</a>. (Advisor: <a href="https://hecl.yonsei.ac.kr/" style="color: #7289da; text-decoration: none;">Prof. Yeonjoo Kim</a>)
 - *2016.03 - 2021.02*, B.S. in Interdisciplinary Eco Science, <a href="https://www.sungshin.ac.kr/dmse/index" style="color: #5A5CFF; text-decoration: none;">Sungshin Women's University</a>.
 
+<span class='anchor' id='-work-experience'></span>
 # 💻 Work Experience
 - *2023.03 - 2023.05*, Post Masters Researcher at <a href="https://civil.yonsei.ac.kr/civil_en/index.do" style="color: #4169E1; text-decoration: none;">Yonsei University</a>, HECL Lab (Hydrology and EcoClimate Lab), Seoul, Korea. (Advisor: <a href="https://hecl.yonsei.ac.kr/" style="color: #7289da; text-decoration: none;">Prof. Yeonjoo Kim</a>)
-- *2022.09 - 2022. 12*, Teaching Assistant at <a href="https://www.sungshin.ac.kr/dmse/index" style="color: #4169E1; text-decoration: none;">Sungshin Women's University</a>. Seoul, Korea.
+- *2022.09 - 2022.12*, Teaching Assistant at <a href="https://www.sungshin.ac.kr/dmse/index" style="color: #4169E1; text-decoration: none;">Sungshin Women's University</a>. Seoul, Korea.
