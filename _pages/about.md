@@ -42,7 +42,7 @@ Seo J., **Chi H.,** Kim Y. \
 
 # 📖 Educations
 - *2023.08 - Present*, Ph.D in Natural Resources and Envrionmental Science, <a href="https://nres.illinois.edu/" style="color: #FF5F05; text-decoration: none;">UIUC</a>.
-- *2021.03 - 2023.02*, M.S. in Civil and Environemental Engineering, <a href="https://hecl.yonsei.ac.kr/" style="color: #4169E1; text-decoration: none;">Yonsei University</a>. (Advisor: <a href="https://sites.google.com/site/mnclab/home" style="color: #7289da; text-decoration: none;">Prof. Yeonjoo Kim</a>)
+- *2021.03 - 2023.02*, M.S. in Civil and Environemental Engineering, <a href="https://civil.yonsei.ac.kr/civil_en/index.do" style="color: #4169E1; text-decoration: none;">Yonsei University</a>. (Advisor: <a href="https://hecl.yonsei.ac.kr/" style="color: #7289da; text-decoration: none;">Prof. Yeonjoo Kim</a>)
 - *2016.03 - 2021.02*, B.S. in Interdisciplinary Eco Science, <a href="https://www.sungshin.ac.kr/dmse/index" style="color: #5A5CFF; text-decoration: none;">Sungshin Women's University</a>.
 
 
