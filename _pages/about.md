@@ -31,7 +31,7 @@ My primary research interests include:
 - <font size="3">Hydrological trends captured by assimilating GRACE total water
 storage data into the CLM5-BGC model</font>
 [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0022169423014695)\
-**Chi H.,**, Seo H., Kim Y. \
+**Chi H.**, Seo H., Kim Y. \
 <span style="color:purple">**Journal of Hydrology (2024)**</span> 
 
 - <font size="3">Hydrological Drought Risk Assessment for Climate Change
