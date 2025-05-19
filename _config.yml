@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Haewon Chi"
 description              : "Ph.D. Student at UIUC"
-repository               : "HaewonChi/.github.io"
+repository               : "HaewonChi/HaewonChi.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -43,7 +43,7 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "Haewon Chi" # e.g., "linkedin username"
+  linkedin         : "haewon-chi" # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
