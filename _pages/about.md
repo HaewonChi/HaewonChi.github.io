@@ -42,6 +42,20 @@ Seo J., **Chi H.,** Kim Y. \
 
 # 🚜 Field Experiences 
 
+<table>
+  <tr>
+    <td style="vertical-align: top; padding-right: 20px;">
+      <strong>Soil Moisture Monitoring Campaign (2023–2024)</strong><br>
+      - Led field campaigns across 30 commercial farms in Illinois to install and maintain a 58-station soil moisture sensor network. <br>
+      - Operated Acclima TDR-310W sensors and CR300 dataloggers for automated, multi-depth (5–50 cm) measurements. <br>
+      - Performed sensor calibration, QC/QA, and managed time-series data for remote sensing validation and land surface modeling.
+    </td>
+    <td style="vertical-align: top;">
+      <img src="images/Fieldwork1.JPG" alt="Soil Sensor Installation" width="250" style="border-radius: 10px;">
+    </td>
+  </tr>
+</table>
+
 # 📖 Educations
 - *2023.05 - Present*, Ph.D in Natural Resources and Envrionmental Science, <a href="https://nres.illinois.edu/" style="color: #FF5F05; text-decoration: none;">UIUC</a>.
 - *2021.03 - 2022.02*, M.S. in Civil and Environemental Engineering, <a href="https://civil.yonsei.ac.kr/civil_en/index.do" style="color: #4169E1; text-decoration: none;">Yonsei University</a>. (Advisor: <a href="https://hecl.yonsei.ac.kr/" style="color: #7289da; text-decoration: none;">Prof. Yeonjoo Kim</a>)
