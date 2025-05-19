@@ -30,7 +30,7 @@ My primary research interests include:
 - *2023.05*: &nbsp;🎉 Started my Ph.D. program at **UIUC**! 
 
 <span class='anchor' id='-publications'></span>
-# 📝 Publications 
+# 📝 Selected Papers
 - <font size="3">Hydrological trends captured by assimilating GRACE total water
 storage data into the CLM5-BGC model</font>
 [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0022169423014695)\
