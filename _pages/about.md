@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a PhD student at <a href="https://nres.illinois.edu/" style="color: #7289da; text-decoration: none;">University of Illinois, Urbana-Champaign (UIUC)</a>, advised by Prof. <a href="http://faculty.nres.illinois.edu/~kaiyuguan/" style="color: #7289da; text-decoration: none;">Kaiyu Guan. Here is my <a href="/Users/hwchi/Library/CloudStorage/OneDrive-UniversityofIllinois-Urbana/UIUC_Ph.D/99. HR/2025_self_evaluation/HaewonChi_CV2.pdf" style="color: #7289da; text-decoration:none">CV</a>.
+I am a PhD student at <a href="https://nres.illinois.edu/" style="color: #7289da; text-decoration: none;">University of Illinois, Urbana-Champaign (UIUC)</a>, advised by Prof. <a href="http://faculty.nres.illinois.edu/~kaiyuguan/" style="color: #7289da; text-decoration: none;">Kaiyu Guan. Here is my <a href="/Users/hwchi/HaewonChi.github.io/assets/HaewonChi_CV2.pdf" style="color: #7289da; text-decoration:none">CV</a>.
 
 My primary research interests include:
 - Crop Yield Prediction
