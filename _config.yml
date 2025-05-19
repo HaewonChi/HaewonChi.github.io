@@ -21,8 +21,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Haewon Chi
-  avatar           : "/Users/hwchi/HaewonChi.github.io/285E5CDA-51A6-4C43-AC27-14A3FD4ADB24-7084-000003DF055B9613.png"
+  name             : "Haewon Chi"
+  avatar           : "images/me.png"
   bio              : 
   location         : "Urbana-Champaign, IL"
   employer         :
