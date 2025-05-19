@@ -24,8 +24,8 @@ My primary research interests include:
 - Machine Learning and Deep Learning 
 
 # 🔥 News
-- *2024.01*: &nbsp;🎉🎉 One paper accepted to **Journal of Hydrology**  
-- *2023.05*: &nbsp;🎉🎉 Started my Ph.D. program at **UIUC**! 
+- *2024.01*: &nbsp;🎉 One paper accepted to **Journal of Hydrology**  
+- *2023.05*: &nbsp;🎉 Started my Ph.D. program at **UIUC**! 
 
 # 📝 Publications 
 - <font size="3">Hydrological trends captured by assimilating GRACE total water
