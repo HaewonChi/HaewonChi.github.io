@@ -20,18 +20,21 @@ redirect_from:
 I am a PhD student at <a href="https://nres.illinois.edu/" style="color: #000000; text-decoration: none;font-weight: bold;">University of Illinois, Urbana-Champaign (UIUC)</a>, advised by Prof. <a href="http://faculty.nres.illinois.edu/~kaiyuguan/" style="color: #000000; text-decoration: none;font-weight: bold;">Kaiyu Guan</a>. Here is my <a href="assets/HaewonChi_CV4.pdf" style="color: #000000; text-decoration:none;font-weight: bold;">CV</a>.
 
 My primary research interests include:
+- Crop Disease detection/prediction using Hyperspectral image data
 - Crop Yield Prediction
 - Machine Learning and Deep Learning 
 
 <span class='anchor' id='-news'></span>
 
 # 🔥 News
+- *2025.12*: &nbsp;🎉 Presenting a **poster** at the AGU 2025 Fall Meeting.  
+  [View abstract](https://agu.confex.com/agu/agu25/meetingapp.cgi/Paper/1899125)
 - *2024.01*: &nbsp;🎉 One paper accepted to **Journal of Hydrology**  
 - *2023.05*: &nbsp;🎉 Started my Ph.D. program at **UIUC**! 
 
 <span class='anchor' id='-publications'></span>
 # 📝 Selected Papers
-- <font size="3">Spatiotemporal Yield Estimation of Four Major Crops in Canadian Prairies using Remote Sensing and Environmental Data</font>\
+- <font size="3">Spatiotemporal Yield Estimation of Four Major Crops in Canadian Prairies using Remote Sensing and Environmental Data</font>
 **<i>Chi H.</i>**, Guan K., Lin Z., Zhang J., Wang S., Mezbahuddin S., Zhou Q., Zhao., K \
 <span style="color:black">**Submitted to Agricultural and Forest Meteorology (2025)**</span> 
 
@@ -65,11 +68,11 @@ Seo J., **<i>Chi H.</i>** Kim Y. \
 
 <span class='anchor' id='-educations'></span>
 # 📖 Educations
-- *2023.05 - Present*, Ph.D in Natural Resources and Envrionmental Science, <a href="https://nres.illinois.edu/" style="color: #000000; text-decoration: none;font-weight: bold;">UIUC</a>.
+- *2023.05 - Present*, Ph.D. student in Natural Resources and Envrionmental Science, <a href="https://nres.illinois.edu/" style="color: #000000; text-decoration: none;font-weight: bold;">UIUC</a>.(Advisor: <a href="http://faculty.nres.illinois.edu/~kaiyuguan/" style="color: #000000; text-decoration: none;font-weight: bold;">Prof. Kaiyu Guan</a>)
 - *2021.03 - 2022.02*, M.S. in Civil and Environemental Engineering, <a href="https://civil.yonsei.ac.kr/civil_en/index.do" style="color: #000000; text-decoration: none;font-weight: bold;">Yonsei University</a>. (Advisor: <a href="https://hecl.yonsei.ac.kr/" style="color: #000000; text-decoration: none;font-weight: bold;">Prof. Yeonjoo Kim</a>)
 - *2016.03 - 2021.02*, B.S. in Interdisciplinary Eco Science, <a href="https://www.sungshin.ac.kr/dmse/index" style="color: #000000; text-decoration: none;font-weight: bold;">Sungshin Women's University</a>.
 
 <span class='anchor' id='-work-experience'></span>
 # 💻 Work Experience
-- *2023.03 - 2023.05*, Post Masters Researcher at <a href="https://civil.yonsei.ac.kr/civil_en/index.do" style="color: #000000; text-decoration: none;font-weight: bold;">Yonsei University</a>, HECL Lab (Hydrology and EcoClimate Lab), Seoul, Korea./ (Advisor: <a href="https://hecl.yonsei.ac.kr/" style="color: #000000; text-decoration: none;font-weight: bold;">Prof. Yeonjoo Kim</a>)
+- *2023.03 - 2023.05*, Post Masters Researcher at <a href="https://civil.yonsei.ac.kr/civil_en/index.do" style="color: #000000; text-decoration: none;font-weight: bold;">Yonsei University</a>, HECL Lab (Hydrology and EcoClimate Lab), Seoul, Korea.\ (Advisor: <a href="https://hecl.yonsei.ac.kr/" style="color: #000000; text-decoration: none;font-weight: bold;">Prof. Yeonjoo Kim</a>)
 - *2022.09 - 2022.12*, Teaching Assistant at <a href="https://www.sungshin.ac.kr/dmse/index" style="color: #000000; text-decoration: none;font-weight: bold;">Sungshin Women's University</a>. Seoul, Korea.
