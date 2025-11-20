@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Haewon Chi"
   avatar           : "images/me2.png"
-  bio              : "Ph.D. Student in Natural Resources and Environmental Sciences<br>University of Illinois Urbana–Champaign"
+  bio              : 
   location         : "Urbana-Champaign, IL"
   employer         :
   pubmed           : 
