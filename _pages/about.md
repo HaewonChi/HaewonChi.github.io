@@ -31,21 +31,20 @@ My primary research interests include:
 
 <span class='anchor' id='-publications'></span>
 # 📝 Selected Papers
-- <font size="3">Spatiotemporal Yield Estimation of Four Major Crops in Canadian Prairies using Remote Sensing and Environmental Data</font>
-[[paper]]\
-**Chi H.**, Guan K., Lin Z., Zhang J., Wang S., Mezbahuddin S., Zhou Q., Zhao., K \
+- <font size="3">Spatiotemporal Yield Estimation of Four Major Crops in Canadian Prairies using Remote Sensing and Environmental Data</font>\
+**<i>Chi H.</i>**, Guan K., Lin Z., Zhang J., Wang S., Mezbahuddin S., Zhou Q., Zhao., K \
 <span style="color:black">**Submitted to Agricultural and Forest Meteorology (2025)**</span> 
 
 - <font size="3">Hydrological trends captured by assimilating GRACE total water
 storage data into the CLM5-BGC model</font>
 [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0022169423014695)\
-**Chi H.**, Seo H., Kim Y. \
+**<i>Chi H.</i>**, Seo H., Kim Y. \
 <span style="color:black">**Journal of Hydrology (2024)**</span> 
 
 - <font size="3">Hydrological Drought Risk Assessment for Climate Change
 adaptation in South Korea</font>
 [[paper]](https://jkwra.or.kr/articles/article/DagR/)\
-Seo J., **Chi H.,** Kim Y. \
+Seo J., **<i>Chi H.</i>** Kim Y. \
 <span style="color:black">**Journal of Korea Water Resources Association (2022)**</span> 
 
 <span class='anchor' id='-field-experiences'></span>
@@ -66,11 +65,11 @@ Seo J., **Chi H.,** Kim Y. \
 
 <span class='anchor' id='-educations'></span>
 # 📖 Educations
-- *2023.05 - Present*, Ph.D in Natural Resources and Envrionmental Science, <a href="https://nres.illinois.edu/" style="color: #FF5F05; text-decoration: none;">UIUC</a>.
+- *2023.05 - Present*, Ph.D in Natural Resources and Envrionmental Science, <a href="https://nres.illinois.edu/" style="color: #000000; text-decoration: none;font-weight: bold;">UIUC</a>.
 - *2021.03 - 2022.02*, M.S. in Civil and Environemental Engineering, <a href="https://civil.yonsei.ac.kr/civil_en/index.do" style="color: #000000; text-decoration: none;font-weight: bold;">Yonsei University</a>. (Advisor: <a href="https://hecl.yonsei.ac.kr/" style="color: #000000; text-decoration: none;font-weight: bold;">Prof. Yeonjoo Kim</a>)
 - *2016.03 - 2021.02*, B.S. in Interdisciplinary Eco Science, <a href="https://www.sungshin.ac.kr/dmse/index" style="color: #000000; text-decoration: none;font-weight: bold;">Sungshin Women's University</a>.
 
 <span class='anchor' id='-work-experience'></span>
 # 💻 Work Experience
-- *2023.03 - 2023.05*, Post Masters Researcher at <a href="https://civil.yonsei.ac.kr/civil_en/index.do" style="color: #000000; text-decoration: none;font-weight: bold;">Yonsei University</a>, HECL Lab (Hydrology and EcoClimate Lab), Seoul, Korea. (Advisor: <a href="https://hecl.yonsei.ac.kr/" style="color: #000000; text-decoration: none;font-weight: bold;">Prof. Yeonjoo Kim</a>)
+- *2023.03 - 2023.05*, Post Masters Researcher at <a href="https://civil.yonsei.ac.kr/civil_en/index.do" style="color: #000000; text-decoration: none;font-weight: bold;">Yonsei University</a>, HECL Lab (Hydrology and EcoClimate Lab), Seoul, Korea./ (Advisor: <a href="https://hecl.yonsei.ac.kr/" style="color: #000000; text-decoration: none;font-weight: bold;">Prof. Yeonjoo Kim</a>)
 - *2022.09 - 2022.12*, Teaching Assistant at <a href="https://www.sungshin.ac.kr/dmse/index" style="color: #000000; text-decoration: none;font-weight: bold;">Sungshin Women's University</a>. Seoul, Korea.
