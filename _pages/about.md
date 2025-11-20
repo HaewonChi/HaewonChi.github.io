@@ -31,6 +31,11 @@ My primary research interests include:
 
 <span class='anchor' id='-publications'></span>
 # 📝 Selected Papers
+- <font size="3">Spatiotemporal Yield Estimation of Four Major Crops in Canadian Prairies using Remote Sensing and Environmental Data</font>
+[[paper]]\
+**Chi H.**, Guan K., Lin Z., Zhang J., Wang S., Mezbahuddin S., Zhou Q., Zhao., K \
+<span style="color:black">**Submitted to Agricultural and Forest Meteorology (2025)**</span> 
+
 - <font size="3">Hydrological trends captured by assimilating GRACE total water
 storage data into the CLM5-BGC model</font>
 [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0022169423014695)\
