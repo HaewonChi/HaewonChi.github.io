@@ -52,7 +52,7 @@ Here is my <a href="assets/HaewonChi_CV4.pdf" style="color: #000000; text-decora
 
 <p>[2] <strong>Chi, H.</strong>, Seo, H., Kim, Y. (2024) 
 "Hydrological trends captured by assimilating GRACE total water storage data into the CLM5-BGC model". 
-<strong><em>Journal of Hydrology, 629</em></strong>, 130527.<br>
+<strong><em>Journal of Hydrology, 629</em></strong>, 130527.
 <a href="https://doi.org/10.1016/j.jhydrol.2023.130527" style="color:#000000; text-decoration:underline;">
 doi: 10.1016/j.jhydrol.2023.130527
 </a><br>
@@ -63,7 +63,7 @@ doi: 10.1016/j.jhydrol.2023.130527
 
 <p>[1] Seo, J., <strong>Chi, H.</strong>, Kim, H. J., Kim, Y. (2022) 
 "Hydrological drought risk assessment for climate change adaptation in South Korea". 
-<strong><em>Journal of Korea Water Resources Association, 55(6)</em></strong>, 421–435.<br>
+<strong><em>Journal of Korea Water Resources Association, 55(6)</em></strong>, 421–435.
 <a href="https://doi.org/10.3741/JKWRA.2022.55.6.421" style="color:#000000; text-decoration:underline;">
 doi: 10.3741/JKWRA.2022.55.6.421
 </a><br>
