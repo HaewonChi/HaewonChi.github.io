@@ -23,8 +23,8 @@ I am a Ph.D. student in the
 at the University of Illinois Urbana-Champaign, advised by 
 <a href="http://faculty.nres.illinois.edu/~kaiyuguan/" style="color: #000000; text-decoration: none; font-weight: bold;">Prof. Kaiyu Guan</a>. 
 
-My research focuses on using satellite remote sensing and machine learning to monitor crop conditions, predict yield, and detect early signals of crop diseases. 
-I work at the intersection of hyperspectral sensing, environmental drivers, and AI-driven agricultural modeling.  
+My research focuses on using **satellite remote sensing** and **machine learning** to monitor crop stresses, predict yield, and detect early signals of crop diseases. 
+I work at the intersection of **hyperspectral sensing**, **environmental drivers**, and **AI-driven** agricultural modeling.  
 Here is my <a href="assets/HaewonChi_CV4.pdf" style="color: #000000; text-decoration:none;font-weight: bold;">CV</a>.
 
 
@@ -43,23 +43,31 @@ Here is my <a href="assets/HaewonChi_CV4.pdf" style="color: #000000; text-decora
 
 <span class='anchor' id='-publications'></span>
 # 📝 Selected Papers
-- <font size="3">Spatiotemporal Yield Estimation of Four Major Crops in Canadian Prairies using Remote Sensing and Environmental Data</font>
-**<i>Chi H.</i>**, Guan K., Lin Z., Zhang J., Wang S., Mezbahuddin S., Zhou Q., Zhao K. \
-<small> Applied a CNN-Transformer model that robustly captures spatiotemporal yield variability and quantified crop- and stage-specific contributions of vegetation and climate signals.</small>  
-<span style="color:black">**Submitted to Agricultural and Forest Meteorology (2025)**</span> 
+- <font size="3"><strong>Spatiotemporal Yield Estimation of Four Major Crops in Canadian Prairies using Remote Sensing and Environmental Data</strong></font>  
+  <i><strong>Chi H.</strong></i>, Guan K., Lin Z., Zhang J., Wang S., Mezbahuddin S., Zhou Q., Zhao K.  
+  <span style="color:#555;">Developed a CNN-Transformer framework that accurately captures spatiotemporal yield variability and quantifies crop- and stage-specific contributions of vegetation and climate signals.</span>  
+  <span style="color:black; font-weight:bold;">Submitted to Agricultural and Forest Meteorology (2025)</span>
 
-- <font size="3">Hydrological trends captured by assimilating GRACE total water storage data into the CLM5-BGC model</font>  
-[[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0022169423014695)  
-**<i>Chi H.</i>**, Seo H., Kim Y.  
-<small>Assimilated GRACE TWSA into CLM5-BGC to improve water storage estimates, enhance hydrological variable accuracy, and better quantify anthropogenic-driven trends.</small>  
-<span style="color:black">**Journal of Hydrology (2024)**</span> 
 
-- <font size="3">Hydrological Drought Risk Assessment for Climate Change
-adaptation in South Korea</font>
-[[paper]](https://jkwra.or.kr/articles/article/DagR/)\
-<small>Evaluated future hydrological drought risks under climate-change scenarios and identified regional vulnerability across South Korea.</small>  
-Seo J., **<i>Chi H.</i>** Kim Y. \
-<span style="color:black">**Journal of Korea Water Resources Association (2022)**</span> 
+- <font size="3"><strong>Hydrological trends captured by assimilating GRACE total water storage data into the CLM5-BGC model</strong></font>  
+  [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0022169423014695)  
+  <i><strong>Chi H.</strong></i>, Seo H., Kim Y.  
+  <span style="color:#555;">
+  Assimilated GRACE TWSA into CLM5-BGC, improving water storage estimates, enhancing hydrological variable accuracy, 
+  and enabling clearer quantification of anthropogenic-driven trends.
+  </span>  
+  <span style="color:black; font-weight:bold;">Journal of Hydrology (2024)</span>
+
+
+- <font size="3"><strong>Hydrological Drought Risk Assessment for Climate Change Adaptation in South Korea</strong></font>  
+  [[paper]](https://jkwra.or.kr/articles/article/DagR/)  
+  Seo J., <i><strong>Chi H.</strong></i>, Kim Y.  
+  <span style="color:#555;">
+  Assessed future hydrological drought risks under climate-change scenarios and identified regional vulnerability across South Korea. 
+  (Written in Korean with English abstract)
+  </span>  
+  <span style="color:black; font-weight:bold;">Journal of Korea Water Resources Association (2022)</span>
+
 
 <span class='anchor' id='-field-experiences'></span>
 # 🚜 Field Experiences 
