@@ -24,8 +24,10 @@ at the University of Illinois Urbana-Champaign, advised by
 <a href="http://faculty.nres.illinois.edu/~kaiyuguan/" style="color: #000000; text-decoration: none; font-weight: bold;">Prof. Kaiyu Guan</a>. 
 
 My research focuses on using **satellite remote sensing** and **machine learning** to monitor crop stresses, predict yield, and detect early signals of crop diseases. 
-I work at the intersection of **hyperspectral sensing**, **environmental drivers**, and **AI-driven** agricultural modeling.  
-Here is my <a href="assets/HaewonChi_CV4.pdf" style="color: #000000; text-decoration:none;font-weight: bold;">CV</a>.
+I work at the intersection of <strong>hyperspectral sensing</strong>, environmental drivers, and <strong>AI-driven</strong> agricultural modeling.  
+
+Here is my <a href="assets/HaewonChi_CV4.pdf"><strong>CV</strong></a>.
+
 
 
 ## 🔍 Research Interests
@@ -68,7 +70,7 @@ doi: 10.1016/j.jhydrol.2023.130527
 doi: 10.3741/JKWRA.2022.55.6.421
 </a><br>
 <span style="color:#555;">
-- Assessed future hydrological drought risks under climate-change scenarios and identified regional vulnerability across South Korea. 
+- Assessed future hydrological drought risks under climate-change scenarios and identified regional vulnerability across South Korea.<br> 
   (Written in Korean with English abstract)
 </span>
 </p>
