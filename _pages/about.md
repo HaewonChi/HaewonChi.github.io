@@ -69,7 +69,7 @@ Here is my <a href="assets/HaewonChi_CV4.pdf"><strong>CV</strong></a>.
 
 <!-- Paper 1 -->
 <p>
-Seo, J., <b>Chi, H.</b>, Kim, H. J., & Kim, Y. (2022).  
+[1] Seo, J., <b>Chi, H.</b>, Kim, H. J., & Kim, Y. (2022).  
 <strong>Hydrological drought risk assessment for climate change adaptation in South Korea.</strong>  
 <em>Journal of Korea Water Resources Association, 55(6)</em>, 421–435.  
 <a href="https://doi.org/10.3741/JKWRA.2022.55.6.421" style="color:#000000; text-decoration:underline;">doi:10.3741/JKWRA.2022.55.6.421</a><br>
