@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a PhD student at <a href="https://nres.illinois.edu/" style="color: #000000; text-decoration: none;font-weight: bold;">University of Illinois, Urbana-Champaign (UIUC)</a>, advised by Prof. <a href="http://faculty.nres.illinois.edu/~kaiyuguan/" style="color: #000000; text-decoration: none;font-weight: bold;">Kaiyu Guan</a>. Here is my <a href="assets/HaewonChi_CV4.pdf" style="color: #000000; text-decoration:none;font-weight: bold;">CV</a>.
+I am a Ph.D. student at <a href="https://nres.illinois.edu/" style="color: #000000; text-decoration: none;font-weight: bold;">University of Illinois, Urbana-Champaign (UIUC)</a>, advised by Prof. <a href="http://faculty.nres.illinois.edu/~kaiyuguan/" style="color: #000000; text-decoration: none;font-weight: bold;">Kaiyu Guan</a>. Here is my <a href="assets/HaewonChi_CV4.pdf" style="color: #000000; text-decoration:none;font-weight: bold;">CV</a>.
 
 My primary research interests include:
 - Crop Disease Detection/Prediction using Hyperspectral image data
