@@ -46,34 +46,39 @@ Here is my <a href="assets/HaewonChi_CV4.pdf"><strong>CV</strong></a>.
 <span class='anchor' id='-publications'></span>
 # 📝 Selected Papers
 
-<p>[3] <strong>Chi, H.</strong>, Guan, K., Lin, Z., Zhang, J., Wang, S., Mezbahuddin, S., Zhou, Q., Zhao, K. (2025) 
-"Spatiotemporal Yield Estimation of Four Major Crops in Canadian Prairies using Remote Sensing and Environmental Data". 
-<strong><em>Submitted to Agricultural and Forest Meteorology.</em></strong><br>
-<span style="color:#555;">- Developed a CNN-Transformer framework that accurately captures spatiotemporal yield variability and quantifies crop- and stage-specific contributions of vegetation and climate signals.</span>
-</p>
-
-<p>[2] <strong>Chi, H.</strong>, Seo, H., Kim, Y. (2024) 
-"Hydrological trends captured by assimilating GRACE total water storage data into the CLM5-BGC model". 
-<strong><em>Journal of Hydrology, 629</em></strong>, 130527.
-<a href="https://doi.org/10.1016/j.jhydrol.2023.130527" style="color:#000000; text-decoration:underline;">
-doi: 10.1016/j.jhydrol.2023.130527
-</a><br>
+<!-- Paper 3 -->
+<p>
+<b>[3] Chi, H.</b>, Guan, K., Lin, Z., Zhang, J., Wang, S., Mezbahuddin, S., Zhou, Q., & Zhao, K. (2025).  
+<strong>Spatiotemporal yield estimation of four major crops in the Canadian Prairies using remote sensing and environmental data.</strong>  
+<em>Submitted to Agricultural and Forest Meteorology.</em><br>
 <span style="color:#555;">
-- Improved CLM5-BGC water storage estimates through GRACE TWSA data assimilation, enhancing hydrological variable accuracy and quantifying anthropogenic-driven hydrological trends.
+• Developed a CNN–Transformer architecture that characterizes multi-scale environmental and vegetation signals, enabling high-resolution yield prediction and interpretable spatial–temporal feature attribution.
 </span>
 </p>
 
-<p>[1] Seo, J., <strong>Chi, H.</strong>, Kim, H. J., Kim, Y. (2022) 
-"Hydrological drought risk assessment for climate change adaptation in South Korea". 
-<strong><em>Journal of Korea Water Resources Association, 55(6)</em></strong>, 421–435.
-<a href="https://doi.org/10.3741/JKWRA.2022.55.6.421" style="color:#000000; text-decoration:underline;">
-doi: 10.3741/JKWRA.2022.55.6.421
-</a><br>
+<!-- Paper 2 -->
+<p>
+<b>[2] Chi, H.</b>, Seo, H., & Kim, Y. (2024).  
+<strong>Hydrological trends captured by assimilating GRACE total water storage data into the CLM5-BGC model.</strong>  
+<em>Journal of Hydrology, 629</em>, 130527.  
+<a href="https://doi.org/10.1016/j.jhydrol.2023.130527" style="color:#000000; text-decoration:underline;">doi:10.1016/j.jhydrol.2023.130527</a><br>
 <span style="color:#555;">
-- Assessed future hydrological drought risks under climate-change scenarios and identified regional vulnerability across South Korea.<br> 
-  (Written in Korean with English abstract)
+• Improved CLM5-BGC terrestrial water storage representation via GRACE TWSA assimilation, enhancing hydrologic variable fidelity and quantifying anthropogenic signals in long-term hydrological trends.
 </span>
 </p>
+
+<!-- Paper 1 -->
+<p>
+Seo, J., <b>Chi, H.</b>, Kim, H. J., & Kim, Y. (2022).  
+<strong>Hydrological drought risk assessment for climate change adaptation in South Korea.</strong>  
+<em>Journal of Korea Water Resources Association, 55(6)</em>, 421–435.  
+<a href="https://doi.org/10.3741/JKWRA.2022.55.6.421" style="color:#000000; text-decoration:underline;">doi:10.3741/JKWRA.2022.55.6.421</a><br>
+<span style="color:#555;">
+• Assessed future hydrological drought risks under multiple climate scenarios and identified region-specific vulnerabilities to inform national climate adaptation planning.  
+(Written in Korean with English abstract)
+</span>
+</p>
+
 
 
 <span class='anchor' id='-field-experiences'></span>
