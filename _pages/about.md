@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-## 👩🏻‍🔬 About Me
+# 👩🏻‍🔬 About Me
 I am a Ph.D. student in the 
 <a href="https://nres.illinois.edu/" style="color: #000000; text-decoration: none; font-weight: bold;">Department of Natural Resources and Environmental Sciences (NRES)</a> 
 at the University of Illinois Urbana-Champaign, advised by 
@@ -30,7 +30,7 @@ Here is my <a href="assets/HaewonChi_CV4.pdf"><strong>CV</strong></a>.
 
 
 
-## 🔍 Research Interests
+# 🔍 Research Interests
 - Satellite-based crop disease detection and early warning systems  
 - Large-scale crop yield estimation integrating ML and environmental drivers  
 - Hyperspectral and multispectral fusion for agricultural monitoring  
@@ -49,7 +49,7 @@ Here is my <a href="assets/HaewonChi_CV4.pdf"><strong>CV</strong></a>.
 
 <!-- Paper 3 -->
 <p>
-[3] <em><strong>Chi, H.</strong></em>, Guan, K., Lin, Z., Zhang, J., Wang, S., Mezbahuddin, S., Zhou, Q., & Zhao, K. (2025).  
+[3] <em><strong> Chi, H.</strong></em>, Guan, K., Lin, Z., Zhang, J., Wang, S., Mezbahuddin, S., Zhou, Q., & Zhao, K. (2025).  
 Spatiotemporal yield estimation of four major crops in the Canadian Prairies using remote sensing and environmental data.
 <strong><em>Agricultural and Forest Meteorology (Under Review)</em></strong><br>
 
@@ -65,7 +65,7 @@ Spatiotemporal yield estimation of four major crops in the Canadian Prairies usi
 
 <!-- Paper 2 -->
 <p>
-[2] <em><strong>Chi, H.</strong></em>, Seo, H., & Kim, Y. (2024).  
+[2]<em><strong> Chi, H.</strong></em>, Seo, H., & Kim, Y. (2024).  
 Hydrological trends captured by assimilating GRACE total water storage data into the CLM5-BGC model.  
 <strong><em>Journal of Hydrology, 629</em></strong>, 130527.  
 <a href="https://doi.org/10.1016/j.jhydrol.2023.130527" style="color:#000000; text-decoration:underline;">
