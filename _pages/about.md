@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-## 👩🏻‍🔬 Short Bio
+## 👩🏻‍🔬 About Me
 I am a Ph.D. student in the 
 <a href="https://nres.illinois.edu/" style="color: #000000; text-decoration: none; font-weight: bold;">Department of Natural Resources and Environmental Sciences (NRES)</a> 
 at the University of Illinois Urbana-Champaign, advised by 
@@ -43,6 +43,7 @@ Here is my <a href="assets/HaewonChi_CV4.pdf"><strong>CV</strong></a>.
 - *2024.01*: &nbsp;🎉 Paper published in **Journal of Hydrology** (GRACE–CLM5 data assimilation)  
 - *2023.05*: &nbsp;🎉 Started my Ph.D. program at **UIUC**! 
 
+
 <span class='anchor' id='-publications'></span>
 # 📝 Selected Papers
 
@@ -50,7 +51,7 @@ Here is my <a href="assets/HaewonChi_CV4.pdf"><strong>CV</strong></a>.
 <p>
 [3]<em><strong>Chi, H.</strong></em>, Guan, K., Lin, Z., Zhang, J., Wang, S., Mezbahuddin, S., Zhou, Q., & Zhao, K. (2025).  
 Spatiotemporal yield estimation of four major crops in the Canadian Prairies using remote sensing and environmental data.
-<strong><em>Submitted to Agricultural and Forest Meteorology.</em></strong><br>
+<strong><em>Agricultural and Forest Meteorology (Under Review)</em></strong><br>
 
 <details>
   <summary style="color:#555; cursor:pointer; margin-top:0.4em;">
@@ -62,13 +63,11 @@ Spatiotemporal yield estimation of four major crops in the Canadian Prairies usi
 </details>
 </p>
 
-
-
 <!-- Paper 2 -->
 <p>
 [2]<em><strong>Chi, H.</strong></em>, Seo, H., & Kim, Y. (2024).  
-<strong>Hydrological trends captured by assimilating GRACE total water storage data into the CLM5-BGC model.</strong>  
-<em>Journal of Hydrology, 629</em>, 130527.  
+Hydrological trends captured by assimilating GRACE total water storage data into the CLM5-BGC model.  
+<strong><em>Journal of Hydrology, 629</em></strong>, 130527.  
 <a href="https://doi.org/10.1016/j.jhydrol.2023.130527" style="color:#000000; text-decoration:underline;">
   doi:10.1016/j.jhydrol.2023.130527
 </a><br>
@@ -83,13 +82,11 @@ Spatiotemporal yield estimation of four major crops in the Canadian Prairies usi
 </details>
 </p>
 
-
-
 <!-- Paper 1 -->
 <p>
 [1] Seo, J., <em><strong>Chi, H.</strong></em>, Kim, H. J., & Kim, Y. (2022).  
-<strong>Hydrological drought risk assessment for climate change adaptation in South Korea.</strong>  
-<em>Journal of Korea Water Resources Association, 55(6)</em>, 421–435.  
+Hydrological drought risk assessment for climate change adaptation in South Korea.
+<strong><em>Journal of Korea Water Resources Association, 55(6)</em></strong>, 421–435.  
 <a href="https://doi.org/10.3741/JKWRA.2022.55.6.421" style="color:#000000; text-decoration:underline;">
   doi:10.3741/JKWRA.2022.55.6.421
 </a><br>
@@ -106,10 +103,8 @@ Spatiotemporal yield estimation of four major crops in the Canadian Prairies usi
 </p>
 
 
-
 <span class='anchor' id='-field-experiences'></span>
 # 🚜 Field Experiences  
-
 <details>
   <summary style="font-size:1.1rem; cursor:pointer; font-weight:600;">
     📌 Soil Moisture Monitoring Campaign (2023-2024) (click to expand)
@@ -133,7 +128,6 @@ Spatiotemporal yield estimation of four major crops in the Canadian Prairies usi
       </td>
     </tr>
   </table>
-
 </details>
 
 
