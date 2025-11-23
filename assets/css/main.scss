@@ -154,3 +154,34 @@ h4 { font-size: 1.05rem; margin-top: 1.2rem; margin-bottom: 0.3rem; }
   box-shadow: none !important;
   background-image: none !important; /* 일부 테마에서 얇은 underline 효과 */
 }
+
+/* ------------------------
+   Section spacing fixes
+   ------------------------ */
+
+.page__content h1 {
+  margin-top: 3rem !important;
+  margin-bottom: 1.3rem !important;
+}
+
+.page__content h2 {
+  margin-top: 2.2rem !important;
+  margin-bottom: 1rem !important;
+}
+
+/* Global text line-height for consistency */
+.page__content p,
+.page__content li,
+.page__content span {
+  line-height: 1.58;
+}
+/* Accordion spacing */
+details {
+  margin-top: 0.4rem;
+  margin-bottom: 1rem;
+}
+
+details summary {
+  padding: 0.25rem 0;
+  font-weight: 500;
+}
