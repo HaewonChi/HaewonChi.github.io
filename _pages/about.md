@@ -24,7 +24,7 @@ at the University of Illinois Urbana-Champaign, advised by
 <a href="https://cee.illinois.edu/directory/profile/barros" style="color: #000000; text-decoration: none; font-weight: bold;">Prof. Ana P. Barros</a>. 
 
 My research focuses on using **satellite gravimetry (GRACE/GRACE-FO)** and **land surface models** to detect where terrestrial water storage is changing across North America and to attribute those changes to groundwater depletion or climate variability. 
-I work at the intersection of <strong>satellite hydrology</strong>, <strong>groundwater</strong>, and <strong>data assimilation</strong> with hybrid physics–ML modeling.  
+I work at the intersection of <strong>hydrologic remote sensing</strong>, <strong>groundwater</strong>, and <strong>data assimilation</strong> with hybrid physics–ML modeling.  
 
 
 
