@@ -9,8 +9,9 @@ remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 minimal_mistakes_skin: "air"
 
 # Site Settings
-title                    : "Haewon Chi"
-description              : "Ph.D. student studying<br>Remote sensing & ML<br>for agricultural systems"
+title                    : "Haewon Chi | University of Illinois Urbana-Champaign"
+subtitle                 : ""
+description              : "Ph.D. student studying<br>Satellite hydrology<br>with GRACE"
 repository               : "HaewonChi/.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -32,7 +33,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=wu3aMe0AAAAJ&hl=en&oi=ao"
-  email            : "haewonc2@illinois.edu"
+  email            :
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -47,7 +48,7 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "haewon-chi-907a92279" # e.g., "linkedin username"
+  linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :

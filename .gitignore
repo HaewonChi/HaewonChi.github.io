@@ -1,3 +1,6 @@
 _site/
 push.sh
 .DS_Store
+
+# keep unreleased CV out of the public repo
+assets/HaewonChi_CV_2026.*

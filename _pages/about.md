@@ -19,29 +19,27 @@ redirect_from:
 
 # 👩🏻‍🔬 About Me
 I am a Ph.D. student in the 
-<a href="https://nres.illinois.edu/" style="color: #000000; text-decoration: none; font-weight: bold;">Department of Natural Resources and Environmental Sciences (NRES)</a> 
+<a href="https://cee.illinois.edu/" style="color: #000000; text-decoration: none; font-weight: bold;">Department of Civil and Environmental Engineering (CEE)</a> 
 at the University of Illinois Urbana-Champaign, advised by 
-<a href="http://faculty.nres.illinois.edu/~kaiyuguan/" style="color: #000000; text-decoration: none; font-weight: bold;">Prof. Kaiyu Guan</a>. 
+<a href="https://cee.illinois.edu/directory/profile/barros" style="color: #000000; text-decoration: none; font-weight: bold;">Prof. Ana P. Barros</a>. 
 
-My research focuses on using **satellite remote sensing** and **machine learning** to monitor crop stresses, predict yield, and detect early signals of crop diseases. 
-I work at the intersection of <strong>hyperspectral sensing</strong>, <strong>environmental drivers</strong>, and <strong>AI-driven</strong> agricultural modeling.  
+My research focuses on using **satellite gravimetry (GRACE/GRACE-FO)** and **land surface models** to detect where terrestrial water storage is changing across North America and to attribute those changes to groundwater depletion or climate variability. 
+I work at the intersection of <strong>satellite hydrology</strong>, <strong>groundwater</strong>, and <strong>data assimilation</strong> with hybrid physics–ML modeling.  
 
-Here is my <a href="assets/HaewonChi_CV4.pdf"><strong>CV</strong></a>.
 
 
 
 # 🔍 Research Interests
-- Satellite-based crop disease detection and early warning systems  
-- Large-scale crop yield estimation integrating ML and environmental drivers  
-- Hyperspectral and multispectral fusion for agricultural monitoring  
-- Deep learning models for spatiotemporal crop prediction
+- Satellite gravimetry (GRACE/GRACE-FO) for detecting and attributing terrestrial water storage change  
+- Groundwater depletion and aquifer-scale water budgets from the residual between GRACE and land surface models  
+- Data assimilation and hybrid physics–ML approaches for integrating satellite observations into hydrologic models
 
 <span class='anchor' id='-news'></span>
 # 🔥 News
+- *2026.09*: &nbsp;🎉 Our paper on crop yield estimation in the Canadian Prairies was accepted in **Agricultural and Forest Meteorology**!
 - *2025.12*: &nbsp;🎉 Presenting a poster at the **AGU 2025 Fall Meeting**  
   [View abstract](https://agu.confex.com/agu/agu25/meetingapp.cgi/Paper/1899125)
-- *2024.01*: &nbsp;🎉 Paper published in **Journal of Hydrology** (GRACE–CLM5 data assimilation)  
-- *2023.05*: &nbsp;🎉 Started my Ph.D. program at **UIUC**! 
+- *2024.01*: &nbsp;🎉 Our paper on assimilating GRACE total water storage into CLM5-BGC was published in **Journal of Hydrology**!  
 
 
 <span class='anchor' id='-publications'></span>
@@ -49,9 +47,9 @@ Here is my <a href="assets/HaewonChi_CV4.pdf"><strong>CV</strong></a>.
 
 <!-- Paper 3 -->
 <p>
-[3] <em><strong> Chi, H.</strong></em>, Guan, K., Lin, Z., Zhang, J., Wang, S., Mezbahuddin, S., Zhou, Q., & Zhao, K. (2025).  
+[3] <em><strong> Chi, H.</strong></em>, Guan, K., Lin, Z., Zhang, J., Wang, S., Mezbahuddin, S., Zhou, Q., & Zhao, K. (2026).  
 Spatiotemporal yield estimation of four major crops in the Canadian Prairies using remote sensing and environmental data.
-<strong><em>Agricultural and Forest Meteorology (Under Review)</em></strong><br>
+<strong><em>Agricultural and Forest Meteorology (Accepted)</em></strong><br>
 
 <details>
   <summary style="color:#555; cursor:pointer; margin-top:0.4em;">
@@ -134,7 +132,7 @@ Hydrological drought risk assessment for climate change adaptation in South Kore
 
 <span class='anchor' id='-educations'></span>
 # 📖 Educations
-- *2023.05 – Present*, Ph.D. student in Natural Resources and Environmental Science, <a href="https://nres.illinois.edu/" style="color: #000000; text-decoration: none;font-weight: bold;">UIUC</a>.(Advisor: <a href="http://faculty.nres.illinois.edu/~kaiyuguan/" style="color: #000000; text-decoration: none;font-weight: bold;">Prof. Kaiyu Guan</a>)
+- *2023.05 – Present*, Ph.D. student, <a href="https://cee.illinois.edu/" style="color: #000000; text-decoration: none;font-weight: bold;">University of Illinois Urbana-Champaign</a>.<br>(Advisor: <a href="https://cee.illinois.edu/directory/profile/barros" style="color: #000000; text-decoration: none;font-weight: bold;">Prof. Ana P. Barros</a>, CEE; 2023–2026 with <a href="http://faculty.nres.illinois.edu/~kaiyuguan/" style="color: #000000; text-decoration: none;font-weight: bold;">Prof. Kaiyu Guan</a>, NRES)
 - *2021.03 – 2022.02*, M.S. in Civil and Environmental Engineering, <a href="https://civil.yonsei.ac.kr/civil_en/index.do" style="color: #000000; text-decoration: none;font-weight: bold;">Yonsei University</a>. (Advisor: <a href="https://hecl.yonsei.ac.kr/" style="color: #000000; text-decoration: none;font-weight: bold;">Prof. Yeonjoo Kim</a>)
 - *2016.03 – 2021.02*, B.S. in Interdisciplinary Eco Science, <a href="https://www.sungshin.ac.kr/dmse/index" style="color: #000000; text-decoration: none;font-weight: bold;">Sungshin Women's University</a>.
 
