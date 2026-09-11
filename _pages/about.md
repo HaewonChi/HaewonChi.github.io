@@ -36,7 +36,7 @@ I work at the intersection of <strong>satellite hydrology</strong>, <strong>grou
 
 <span class='anchor' id='-news'></span>
 # 🔥 News
-- *2026.09*: &nbsp;🎉 Our paper on crop yield estimation in the Canadian Prairies was accepted in **Agricultural and Forest Meteorology**!
+- *2026.08*: &nbsp;🎉 Our paper on crop yield estimation in the Canadian Prairies was accepted in **Agricultural and Forest Meteorology**!
 - *2025.12*: &nbsp;🎉 Presenting a poster at the **AGU 2025 Fall Meeting**  
   [View abstract](https://agu.confex.com/agu/agu25/meetingapp.cgi/Paper/1899125)
 - *2024.01*: &nbsp;🎉 Our paper on assimilating GRACE total water storage into CLM5-BGC was published in **Journal of Hydrology**!  
