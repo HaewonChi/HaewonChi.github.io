@@ -132,7 +132,8 @@ Hydrological drought risk assessment for climate change adaptation in South Kore
 
 <span class='anchor' id='-educations'></span>
 # 📖 Educations
-- *2023.05 – Present*, Ph.D. student, <a href="https://cee.illinois.edu/" style="color: #000000; text-decoration: none;font-weight: bold;">University of Illinois Urbana-Champaign</a>.<br>(Advisor: <a href="https://cee.illinois.edu/directory/profile/barros" style="color: #000000; text-decoration: none;font-weight: bold;">Prof. Ana P. Barros</a>, CEE; 2023–2026 with <a href="http://faculty.nres.illinois.edu/~kaiyuguan/" style="color: #000000; text-decoration: none;font-weight: bold;">Prof. Kaiyu Guan</a>, NRES)
+- *2026.08 – Present*, Ph.D. student in Civil and Environmental Engineering, <a href="https://cee.illinois.edu/" style="color: #000000; text-decoration: none;font-weight: bold;">UIUC</a>. (Advisor: <a href="https://cee.illinois.edu/directory/profile/barros" style="color: #000000; text-decoration: none;font-weight: bold;">Prof. Ana P. Barros</a>)
+- *2023.05 – 2026.08*, Research Assistant in Natural Resources and Environmental Sciences, <a href="https://nres.illinois.edu/" style="color: #000000; text-decoration: none;font-weight: bold;">UIUC</a>. (Advisor: <a href="http://faculty.nres.illinois.edu/~kaiyuguan/" style="color: #000000; text-decoration: none;font-weight: bold;">Prof. Kaiyu Guan</a>)
 - *2021.03 – 2022.02*, M.S. in Civil and Environmental Engineering, <a href="https://civil.yonsei.ac.kr/civil_en/index.do" style="color: #000000; text-decoration: none;font-weight: bold;">Yonsei University</a>. (Advisor: <a href="https://hecl.yonsei.ac.kr/" style="color: #000000; text-decoration: none;font-weight: bold;">Prof. Yeonjoo Kim</a>)
 - *2016.03 – 2021.02*, B.S. in Interdisciplinary Eco Science, <a href="https://www.sungshin.ac.kr/dmse/index" style="color: #000000; text-decoration: none;font-weight: bold;">Sungshin Women's University</a>.
 
