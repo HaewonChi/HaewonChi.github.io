@@ -11,7 +11,7 @@ minimal_mistakes_skin: "air"
 # Site Settings
 title                    : "Haewon Chi | University of Illinois Urbana-Champaign"
 subtitle                 : ""
-description              : "Ph.D. student studying<br>Satellite hydrology<br>with GRACE"
+description              : "Ph.D. student studying<br>Hydrologic remote sensing<br>with GRACE"
 repository               : "HaewonChi/.github.io"
 google_scholar_stats_use_cdn : true
 
